@@ -1,5 +1,5 @@
 # GithubReact
-GithubViewerProfile App with React and Github Api
+GithubViewerProfile App with ReactJS and Github Api
 
 #### $ npm install
 
