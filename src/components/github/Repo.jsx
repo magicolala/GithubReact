@@ -8,9 +8,8 @@ class Repo extends Component{
         return (
             <li className="list-group-item">
                 <a href={repo.html_url}>
-                    <a> {repo.name}
+                    {repo.name}
                     </a> : {repo.description}
-                </a>
             </li>
         )
     }
